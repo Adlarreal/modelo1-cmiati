@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<Landscape updated="2026-01-29T17:58:09Z" version="1" generator="SAP GUI for Windows v8000.1.0.155">
+    <Workspaces>
+        <Workspace uuid="7d1c3c52-0c40-477c-9767-f8a7037c293d" name="Modelo 1 - CMIA TI" expanded="1">
+            <Node uuid="dee57a1d-97af-4581-b605-20b2586e1994" name="01. Alimentos">
+                <Item uuid="20a99bb0-55bf-4dd6-9984-b053accfc24f" serviceid="e2a618d5-449c-405c-901e-9cc36729727a"/>
+                <Item uuid="67dbb5ed-40c9-4dec-8115-8fd442577359" serviceid="90a024c3-8df4-47be-a490-3db9f17026c9"/>
+                <Item uuid="3781debd-d753-4316-a4c7-876aaed1e6d5" serviceid="43d7462c-a242-4f89-b077-a99dab7eef9e"/>
+                <Item uuid="d661e52d-ba40-4f1c-9118-6dfb5989746c" serviceid="1e00ecd5-a646-4d79-95dd-3661c0fb880a"/>
+                <Item uuid="953dd532-e07e-4e07-b6f0-a82603da9bd4" serviceid="9fda4bf6-2c8f-4d30-b0b0-95400c58bb3b"/>
+                <Item uuid="45fde3ad-6248-43b9-aa09-16e0c04f8438" serviceid="dc0f3764-7b69-4a88-8379-5cb43766b7e2"/>
+                <Item uuid="18c657d7-82e0-44bc-b22d-4ccadb41868a" serviceid="4cfe578c-3641-4a14-a836-914c0833d275"/>
+                <Item uuid="0fb69d56-55f8-4969-9c76-904c880b0bde" serviceid="73098abb-a090-4426-93e0-2eebc91fb2ae"/>
+                <Item uuid="d7e388bb-f101-4a68-9797-a34b5a33fd83" serviceid="96910f0b-fb1d-47f1-ae16-9202ed25b850"/>
+                <Item uuid="8e7c7f0e-e3ea-42f5-9423-de650192ec29" serviceid="844df390-a224-43ac-be87-8b69c99e04be"/>
+                <Item uuid="39e42014-d01a-496b-ae38-54bb48dd44cc" serviceid="1625aa09-ccbd-4b50-a526-31707e08dd57"/>
+                <Item uuid="b6660032-57f3-468f-bbed-3ab8e93b8665" serviceid="98c2a9f5-35bd-4e5c-afb8-cae38134e14b"/>
+                <Item uuid="eb3d157d-10ec-447e-9766-c76ab7b2d5e0" serviceid="a47e926d-a52b-4141-8509-07a3e3ae1ad3"/>
+                <Item uuid="401d61b2-f850-48e9-8b21-6c3b6cb4b417" serviceid="aff02db1-9de1-4d21-a6ee-90d0ba8c79c4"/>
+                <Item uuid="5d91af4e-e3d8-4347-9509-10f7314dc862" serviceid="6dc69041-df44-4cc7-967a-cd447c33d92d"/>
+            </Node>
+            <Node uuid="f2022a54-20af-4da1-acff-138ec4837be3" name="02. Capital">
+                <Item uuid="0b08caf1-1bc6-45e4-9e55-692fca339116" serviceid="ba34569d-79c0-4e05-8061-62cc8342e2a2"/>
+                <Item uuid="e21d1f1e-d948-49e7-bd10-86829a31223f" serviceid="df36de6d-e4e2-4c5f-9b6c-5328ffa5bba6"/>
+                <Item uuid="ef90ccc0-7165-49d4-b87d-5a0b4c8b850a" serviceid="79fb64bd-8f1b-4a71-88b3-fcdda88a8f28"/>
+                <Item uuid="1e0ac596-8727-43f3-becd-131637640285" serviceid="bc65f4c6-2c0b-40bd-8dbd-433cb391af11"/>
+            </Node>
+            <Node uuid="c81c5e4d-20a3-4f73-b096-e1449c3d04f6" name="03. Transversales">
+                <Item uuid="c230e88d-585b-4ed6-af46-1876f4c35d00" serviceid="3a5cbff3-9f46-4631-ac69-b575dbec4a47"/>
+                <Item uuid="e402dc1b-a278-4f0c-be78-2012566d5a7f" serviceid="e3d33767-3420-4d48-82cb-ed727a7cd7ee"/>
+                <Item uuid="8dda0ce2-12af-4462-a3c5-0d62a9ec63e0" serviceid="4f0948aa-81d7-46a2-aad7-25f8b4539fc6"/>
+                <Item uuid="81c77c63-0899-449c-aec3-300a260999ac" serviceid="5a1f5ac3-de3b-4b9d-af6b-e65c953e5cba"/>
+                <Item uuid="737bc1d3-370e-494b-b6bc-79725ba8dc9f" serviceid="a61f06da-bbd2-4e18-8118-0866e54ffd6e"/>
+                <Item uuid="18ed9e40-78e6-4c63-bd28-87ae49be091e" serviceid="6d097f5f-617a-4f52-8bb4-b49bb73ec331"/>
+                <Item uuid="f2402536-d69a-428e-abb2-5c339db7924c" serviceid="2a9562e9-0835-4c77-a3ce-f013355a0657"/>
+                <Item uuid="88512bd2-e3b6-4b93-bbb7-b71985599a4a" serviceid="e0b5a364-cd7c-4178-92f9-26bc9184147a"/>
+                <Item uuid="e464583c-f136-493e-bc14-da6a01a2f133" serviceid="c073a208-7c6b-47cd-a573-7161d86b6269"/>
+                <Item uuid="f6ed12f3-3beb-47c1-9ce9-975ff9b7db7c" serviceid="17a88817-49bd-46f4-83c2-445c46ee0c5c"/>
+                <Item uuid="1790ea7d-6883-4be9-8d5b-380ca5272a8d" serviceid="d72e0117-273f-4395-9e1d-f836bd951078"/>
+                <Item uuid="7c32abf3-ec60-406b-b261-78a7d90d5f4d" serviceid="071631cf-1a04-498b-8365-14bd75ae6e6a"/>
+                <Item uuid="329e08ba-74c8-451a-976e-7fc27ca19fe4" serviceid="3fa7b55d-cbed-465b-bfc2-f7fbe1bba737"/>
+                <Item uuid="8217dd43-3746-463f-8a4c-5e050926ea6d" serviceid="8dfba1bb-678d-422c-b823-e0e134eb3262"/>
+            </Node>
+            <Node uuid="13e4bcdc-4b00-43c5-8e88-6ac740f58fd9" name="04. Desarrollo, Calidad y Sandbox">
+                <Item uuid="0d8824ef-b5d7-4b55-a0d2-d58c34f236a3" serviceid="51004ca7-56b8-4aaa-a2bc-e35e344f584b"/>
+                <Item uuid="ef6e0d61-7aa2-47b0-bc26-ef13057fd88b" serviceid="e2c334ca-44bc-4a8c-8d16-8491672b06da"/>
+                <Item uuid="7b758138-2bb6-4eb2-ad82-b0c72203560d" serviceid="7ab36cef-851d-44b7-9a15-9951f36c259d"/>
+                <Item uuid="08298185-1994-4bb1-8809-d9551079b4cb" serviceid="72d2afc8-50ec-44e9-9e30-5ab3e9dc4d81"/>
+                <Item uuid="ab5d8ca4-5c9e-4ae9-9cff-806dcdc97d92" serviceid="dc9c7a5e-24af-4045-8221-babac4e23f22"/>
+                <Item uuid="8844224e-0fad-4f6b-bbd4-51578d593180" serviceid="34410a7c-97f6-4a9e-8a23-77fef3dd7f4b"/>
+                <Item uuid="ebb1a4f0-2a6b-4f36-8293-1a0565cd8651" serviceid="00d18033-7c8d-43c3-97e8-ff175b71a51a"/>
+                <Item uuid="f8a85433-5463-4405-8555-c4d2c7caeaeb" serviceid="d87ec6d3-46d5-4fd8-b46d-03d8c5f05e82"/>
+                <Item uuid="4a3befa8-c95c-415b-a9af-299e3fedb3e1" serviceid="2f9a74e3-f381-4e64-8627-7ad9e3637b0c"/>
+                <Item uuid="5f584ed4-b076-4047-a5e6-7e23ed71727e" serviceid="e15c236f-aa6d-4c55-8ee5-aeb1f50c6ad9"/>
+                <Item uuid="cc157839-4589-4641-b5b6-585af4ac9257" serviceid="d2a63d2f-439e-447e-8d5a-d758d5e45cc0"/>
+                <Item uuid="d51d5858-bc9d-4409-9736-b253471a7c24" serviceid="7bb3eb23-cd77-46f8-a833-28b60ece20a5"/>
+                <Item uuid="3e4d65e3-3657-49c1-9ce6-df5cb93e4b09" serviceid="86459087-b5c8-4d36-832a-e4daa0069c71"/>
+                <Item uuid="0709e794-5a0b-499b-a1b6-c5c1c3a3fda1" serviceid="70597d41-870a-4047-b344-39f90d241fc2"/>
+                <Item uuid="4ac1095f-9ce2-44b5-ad56-5f087b22646c" serviceid="d9aedd3a-a2ca-4def-976c-ac92319b1c72"/>
+                <Item uuid="3100835f-583f-4de1-8799-de6a4db8cc06" serviceid="d7cc6939-9774-46f6-8b82-75bbe7c654fa"/>
+                <Item uuid="0d9a84b1-4e8b-47d5-9793-519cd908ed86" serviceid="f27bd211-2cfa-48c8-b90d-2da506c9c67b"/>
+                <Item uuid="3f51b7c1-2bdf-4217-bf84-78b33df735d9" serviceid="e3f48f03-5055-48ac-9f87-298d87bab289"/>
+                <Item uuid="063c193e-81dd-4acc-b43f-bb13bc39b761" serviceid="3f87f687-b017-4611-abc3-6c1108da310e"/>
+                <Item uuid="ef4bda65-2e61-454a-8cab-cc7631c4e0d5" serviceid="c5e6e5d5-c2b4-4fd6-93f4-9554ce9036c9"/>
+                <Item uuid="bf695229-47c5-40e2-8f40-7762437c2181" serviceid="c3c7ee06-d42e-41d2-8014-a3727f4363f9"/>
+                <Item uuid="5aff4a00-6b09-4115-b811-3bcea43d8b0d" serviceid="7764bec5-d848-4e3d-a30b-55d231922721"/>
+                <Item uuid="d76f4e72-0dcb-42ed-9e57-dd02af1cf11d" serviceid="3a9d9988-4184-4c90-8bb9-c207a604cff5"/>
+                <Item uuid="06ccf94a-f39f-4786-9c18-b9334834bb3d" serviceid="bee24257-77a5-4c63-b66c-c2b74b5be1b4"/>
+                <Item uuid="167ec0ea-0cfd-4616-9b62-c04316e68e75" serviceid="ea10f4ba-ec91-4d80-9c10-1d741d749e4b"/>
+                <Item uuid="6b2b1fc8-1278-4a02-b823-426d41bd0e47" serviceid="8e3b24c7-702d-4ee7-a094-f73440c6eaec"/>
+                <Item uuid="1e806be8-a6c1-4846-b5f0-660e377935fb" serviceid="1411c032-d9cb-413d-aaeb-de7f3fe9e73f"/>
+                <Item uuid="d81e3542-4497-4614-b5a3-2fb27d17e6d7" serviceid="0238757b-3f60-4742-8e1e-b085aec2a3f4"/>
+                <Item uuid="0a1cb288-3082-4dbc-84ad-50fc5e357257" serviceid="a53e37ff-e2c4-48a2-aed3-5addcdbe8d78"/>
+                <Item uuid="84105f90-d936-45d7-a004-b4f0e95fea0d" serviceid="12637657-6796-40ba-8fa5-a9b36c7461c3"/>
+                <Item uuid="5c35528d-72fd-4dff-bffd-ac49e117766d" serviceid="f546516b-f7f3-4110-bade-6be7ef5da0d7"/>
+                <Item uuid="d8b52d30-80ba-41a4-b59f-2cfae38246fd" serviceid="f5e7a4ba-6bac-4a66-a1ee-dd20fa114c9d"/>
+                <Item uuid="79bc8b7c-22b1-4969-ac28-163caf23687e" serviceid="8ed33902-f27c-4b71-864e-e4d7623c5640"/>
+                <Item uuid="d52b8118-c02a-4693-9352-274061712e2d" serviceid="d351e253-9325-46b3-bcaf-30cdae728090"/>
+                <Item uuid="b8db2dec-3e44-4454-ab12-a76c4cd25a86" serviceid="9817e9f0-b99b-4e2d-a6ad-3c293cd92c70"/>
+                <Item uuid="1c3f548c-1d26-4d81-9552-24a7ccbb95fe" serviceid="b2e38d04-322f-4420-98a9-e873c9362913"/>
+                <Item uuid="fb142489-22d9-4600-b149-97251fcd0794" serviceid="7421b097-79bb-4a6d-a85a-c5837a36eb67"/>
+                <Item uuid="ff5cbd8f-cae1-405d-a89e-fa9e6c5df742" serviceid="5e5ba68b-8832-407b-8eb1-a546fcce665f"/>
+                <Item uuid="92cb5bb1-63b4-4f23-95f3-f6948f6c2ce4" serviceid="5dc419ad-4874-4d44-b311-57369600e416"/>
+                <Item uuid="1b1d8125-62bb-4b3c-acb0-a6a966b51941" serviceid="793efba0-fa4a-4496-9c1a-1eebbd030d52"/>
+                <Item uuid="b83a53e0-cad1-476c-ab87-0a619aea0051" serviceid="e474ea70-6a5a-4269-bd5d-0f1810d03cfa"/>
+                <Item uuid="4baef190-e8ec-4d0b-8a47-a9ccc8376e59" serviceid="8dc5ffe6-7407-4d23-a4b3-d06519bc2304"/>
+                <Item uuid="0337b341-5994-4805-9308-5ac12fa50dfb" serviceid="4281eaa7-db58-4b8e-a46e-902a93f14ecd"/>
+                <Item uuid="abac892d-8aa9-4685-bf85-90a5780cd012" serviceid="15250d37-f09e-4c1c-bd37-2760f4157d1e"/>
+                <Item uuid="f19de565-9b00-485c-8a41-b2a7d28568d4" serviceid="0b1b7a60-a902-4f5b-bf29-840f07c70a7a"/>
+                <Item uuid="1a70a977-a171-4e66-ad7a-93a2e8f7e2b3" serviceid="3faf5d6c-4771-4a90-ba44-b676dbc301b7"/>
+                <Item uuid="e20879b7-1f9a-4a4f-8454-52b6b5f14203" serviceid="78fd0e16-ff6b-457b-8af2-873a0b68f966"/>
+                <Item uuid="8e7f16c9-3004-4716-baab-d5c9d84ea354" serviceid="12a12eed-620d-499e-8db5-e03f5eeeefb5"/>
+                <Item uuid="72ffe4fc-2b12-4741-b8db-1db71f16bac5" serviceid="f6321b88-6d75-48dc-b47e-77606b47b963"/>
+                <Item uuid="c4cc5bf3-422f-4696-8d8f-dcdbebee904a" serviceid="5da7efc5-429c-4cf7-84c5-552628d4b8bd"/>
+            </Node>
+        </Workspace>
+    </Workspaces>
+    <Services>
+        <Service type="SAPGUI" uuid="51004ca7-56b8-4aaa-a2bc-e35e344f584b" name="31. Fiori UCG Desarrollo/Calidad" systemid="D17" mode="1" server="CMID17AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D17, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="e2c334ca-44bc-4a8c-8d16-8491672b06da" name="20. ERP Calidad Corp/CSI [Remota]" systemid="Q06" mode="1" server="CORPQAECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q06, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="7ab36cef-851d-44b7-9a15-9951f36c259d" name="06. ERP Desarrollo Energía [Remota]" systemid="D02" mode="1" server="DENDVECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D02, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="72d2afc8-50ec-44e9-9e30-5ab3e9dc4d81" name="03. ERP Calidad SC/R&amp;R/B4B-ABA" systemid="Q01" mode="1" server="CMIQ01AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q01, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="e2a618d5-449c-405c-901e-9cc36729727a" name="07. Fiori Productivo UCG" systemid="P17" msid="68d748e4-5657-4790-b5f1-8309648b47d5" server="CMIP17AP0.unidad.local:3200" sncop="9" dcpg="2" mode="1" sncname="p:CN=P17, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="90a024c3-8df4-47be-a490-3db9f17026c9" name="05. ERP Productivo UCG" systemid="P10" msid="1607703e-c397-4faa-a97b-14f9b601c5ad" server="UCG_PRD" sncop="9" dcpg="2" sncname="p:CN=P10, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="43d7462c-a242-4f89-b077-a99dab7eef9e" name="03. ERP Productivo B4B/B4C" systemid="P03" msid="caa5bf3c-40e2-4926-8ccf-f076352ffe97" server="MLM_ERP_PRODUCCION" sncop="9" dcpg="2" sncname="p:CN=P03, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="dc9c7a5e-24af-4045-8221-babac4e23f22" name="32. Fiori UCG Desarrollo/Calidad [Remota]" systemid="D17" mode="1" server="CMID17AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D17, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="34410a7c-97f6-4a9e-8a23-77fef3dd7f4b" name="26. BW Calidad [Remota]" systemid="Q05" mode="1" server="CMIQ05AP.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q05, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="00d18033-7c8d-43c3-97e8-ff175b71a51a" name="25. BW Calidad" systemid="Q05" mode="1" server="CMIQ05AP.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q05, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="3a5cbff3-9f46-4631-ac69-b575dbec4a47" name="05. BW Productivo" systemid="P05" mode="1" server="CMIP05AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=P05, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="1e00ecd5-a646-4d79-95dd-3661c0fb880a" name="02. ERP Productivo SC/R&amp;R/B4B-ABA [Remota]" systemid="P01" msid="5421b3ab-2afb-446f-bdd7-babf6f1ac860" server="SAPP01" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P01, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="d87ec6d3-46d5-4fd8-b46d-03d8c5f05e82" name="38. Interfaces Oracle Desarrollo SC/R&amp;R/B4B-ABA [Remoto]" systemid="BI1" mode="1" server="CMIBDBI70.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="2f9a74e3-f381-4e64-8627-7ad9e3637b0c" name="33. ERP Desarrollo/Calidad CUSA" systemid="D20" mode="1" server="CMID20AP01.unidad.local:3201" sncop="9" dcpg="2" sncname="p/secude:CN=D20, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="e15c236f-aa6d-4c55-8ee5-aeb1f50c6ad9" name="21. ERP Desarrollo/Calidad UCG" systemid="D10" mode="1" server="CMID10AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D10, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="d2a63d2f-439e-447e-8d5a-d758d5e45cc0" name="11. ERP Calidad B4B/B4C" systemid="Q03" mode="1" server="CMIQ03AP01.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q03, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="7bb3eb23-cd77-46f8-a833-28b60ece20a5" name="02. ERP Desarrollo SC/R&amp;R/B4B-ABA [Remota]" systemid="DE1" mode="1" server="CMIDVECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=DE1, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="e3d33767-3420-4d48-82cb-ed727a7cd7ee" name="06. BW Productivo [Remota]" systemid="P05" mode="1" server="CMIP05AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=P05, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="86459087-b5c8-4d36-832a-e4daa0069c71" name="09. ERP Desarrollo B4B/B4C" systemid="D03" mode="1" server="CMID03AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D03, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="4f0948aa-81d7-46a2-aad7-25f8b4539fc6" name="08. Solution Manager Productivo [Remota]" systemid="P14" msid="99e1bf34-938a-429f-91db-971a8cec1359" server="PRD_P14" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P14, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="70597d41-870a-4047-b344-39f90d241fc2" name="19. ERP Calidad Corp/CSI" systemid="Q06" mode="1" server="CORPQAECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q06, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="d9aedd3a-a2ca-4def-976c-ac92319b1c72" name="18. ERP Desarrollo Corp/CSI [Remota]" systemid="D06" mode="1" server="CORPDVECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D06, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="98c2a9f5-35bd-4e5c-afb8-cae38134e14b" name="12. Interfaces Oracle Productivo SC/R&amp;R/B4B-ABA [Remoto]" systemid="BI3" msid="4506752c-87a5-413a-9d47-97418e38c576" server="sapbi300.unidad.local:3201" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2" mode="1"/>
+        <Service type="SAPGUI" uuid="9fda4bf6-2c8f-4d30-b0b0-95400c58bb3b" name="08. Fiori Productivo UCG [Remota]" systemid="P17" msid="68d748e4-5657-4790-b5f1-8309648b47d5" server="CMIP17AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" dcpg="2" mode="1" sncname="p:CN=P17, OU=SAP Security" sncop="9"/>
+        <Service type="SAPGUI" uuid="d7cc6939-9774-46f6-8b82-75bbe7c654fa" name="05. ERP Desarrollo Energía" systemid="D02" mode="1" server="DENDVECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D02, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="5a1f5ac3-de3b-4b9d-af6b-e65c953e5cba" name="11. GRC Productivo" systemid="P18" mode="1" server="CMIP18AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=P18, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="ba34569d-79c0-4e05-8061-62cc8342e2a2" name="04. ERP Productivo Multiproyectos [Remota]" systemid="P04" msid="5c53518f-5ba1-45d6-a768-e1149a93f774" server="MP_ERP_PRODUCCION" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P04, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="dc0f3764-7b69-4a88-8379-5cb43766b7e2" name="10. ERP Productivo CUSA [Remota]" systemid="P20" mode="1" server="CMIP20DB01.unidad.local:3221" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=P20, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="f27bd211-2cfa-48c8-b90d-2da506c9c67b" name="28. Solution Manager Desarrollo/Calidad [Remota]" systemid="D14" mode="1" server="CMID14AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D14, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="e3f48f03-5055-48ac-9f87-298d87bab289" name="22. ERP Desarrollo/Calidad UCG [Remota]" systemid="D10" mode="1" server="CMID10AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D10, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="3f87f687-b017-4611-abc3-6c1108da310e" name="17. ERP Desarrollo Corp/CSI" systemid="D06" mode="1" server="CORPDVECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D06, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="c5e6e5d5-c2b4-4fd6-93f4-9554ce9036c9" name="15. ERP Calidad Multiproyectos" systemid="Q04" mode="1" server="DDIDQAECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q04, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="df36de6d-e4e2-4c5f-9b6c-5328ffa5bba6" name="03. ERP Productivo Multiproyectos" systemid="P04" msid="5c53518f-5ba1-45d6-a768-e1149a93f774" server="MP_ERP_PRODUCCION" sncop="9" dcpg="2" sncname="p:CN=P04, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="4cfe578c-3641-4a14-a836-914c0833d275" name="09. ERP Productivo CUSA" systemid="P20" mode="1" server="CMIP20DB01.unidad.local:3221" sncop="9" dcpg="2" sncname="p/secude:CN=P20, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="c3c7ee06-d42e-41d2-8014-a3727f4363f9" name="29. Fiori Desarrollo/Calidad" systemid="D15" mode="1" server="CMID15AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D15, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="7764bec5-d848-4e3d-a30b-55d231922721" name="24. BPC Calidad [Remota]" systemid="Q07" mode="1" server="CMIQ07AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q07, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="3a9d9988-4184-4c90-8bb9-c207a604cff5" name="08. ERP Calidad Energía [Remota]" systemid="Q02" mode="1" server="DENQAECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q02, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="a61f06da-bbd2-4e18-8118-0866e54ffd6e" name="04. BPC Productivo [Remota]" systemid="P07" mode="1" server="CMIP07AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=P07, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="6d097f5f-617a-4f52-8bb4-b49bb73ec331" name="01. ERP Productivo Corp/CSI" systemid="P06" msid="4ea214ee-067c-4160-aed0-7874be1d1372" server="coperp6ci" sncop="9" dcpg="2" sncname="p:CN=P06, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="79fb64bd-8f1b-4a71-88b3-fcdda88a8f28" name="01. ERP Productivo Energía" systemid="P02" msid="fe9310e9-24c2-419c-93ca-5e939c16a7f8" server="DIV_ERP_PRODUCCION" sncop="9" dcpg="2" sncname="p:CN=P02, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="73098abb-a090-4426-93e0-2eebc91fb2ae" name="06. ERP Productivo UCG [Remota]" systemid="P10" msid="1607703e-c397-4faa-a97b-14f9b601c5ad" server="UCG_PRD" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" dcpg="2" sncname="p:CN=P10, OU=SAP Security" sncop="9"/>
+        <Service type="SAPGUI" uuid="96910f0b-fb1d-47f1-ae16-9202ed25b850" name="01. ERP Productivo SC/R&amp;R/B4B-ABA" systemid="P01" msid="5421b3ab-2afb-446f-bdd7-babf6f1ac860" server="SAPP01" sncop="9" dcpg="2" sncname="p:CN=P01, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="bee24257-77a5-4c63-b66c-c2b74b5be1b4" name="34. ERP Desarrollo/Calidad CUSA [Remota]" systemid="D20" mode="1" server="CMID20AP01.unidad.local:3201" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D20, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="ea10f4ba-ec91-4d80-9c10-1d741d749e4b" name="14. ERP Desarrollo Multiproyectos [Remota]" systemid="D04" mode="1" server="DDIDVECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D04, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="8e3b24c7-702d-4ee7-a094-f73440c6eaec" name="04. ERP Calidad SC/R&amp;R/B4B-ABA [Remota]" systemid="Q01" mode="1" server="CMIQ01AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q01, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="1411c032-d9cb-413d-aaeb-de7f3fe9e73f" name="37. Interfaces Oracle Desarrollo SC/R&amp;R/B4B-ABA" systemid="BI1" mode="1" server="CMIBDBI70.unidad.local:3200" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="0238757b-3f60-4742-8e1e-b085aec2a3f4" name="36. GRC Desarrollo/Calidad [Remota]" systemid="D18" mode="1" server="CMID18AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D18, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="a53e37ff-e2c4-48a2-aed3-5addcdbe8d78" name="16. ERP Calidad Multiproyectos [Remota]" systemid="Q04" mode="1" server="DDIDQAECC6.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q04, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="12637657-6796-40ba-8fa5-a9b36c7461c3" name="42. Interfaces Oracle Calidad SC/R&amp;R/B4B-ABA [Remoto]" systemid="BI2" mode="1" server="CMIBQBI70.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="f546516b-f7f3-4110-bade-6be7ef5da0d7" name="41. Interfaces Oracle Calidad SC/R&amp;R/B4B-ABA" systemid="BI2" mode="1" server="CMIBQBI70.unidad.local:3200" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="f5e7a4ba-6bac-4a66-a1ee-dd20fa114c9d" name="35. GRC Desarrollo/Calidad" systemid="D18" mode="1" server="CMID18AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D18, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="8ed33902-f27c-4b71-864e-e4d7623c5640" name="30. Fiori Desarrollo/Calidad [Remota]" systemid="D15" mode="1" server="CMID15AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D15, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="d351e253-9325-46b3-bcaf-30cdae728090" name="12. ERP Calidad B4B/B4C [Remota]" systemid="Q03" mode="1" server="CMIQ03AP01.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=Q03, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="9817e9f0-b99b-4e2d-a6ad-3c293cd92c70" name="10. ERP Desarrollo B4B/B4C [Remota]" systemid="D03" mode="1" server="CMID03AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D03, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="2a9562e9-0835-4c77-a3ce-f013355a0657" name="12. GRC Productivo [Remota]" systemid="P18" mode="1" server="CMIP18AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=P18, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="bc65f4c6-2c0b-40bd-8dbd-433cb391af11" name="02. ERP Productivo Energía [Remota]" systemid="P02" msid="fe9310e9-24c2-419c-93ca-5e939c16a7f8" server="DIV_ERP_PRODUCCION" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P02, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="844df390-a224-43ac-be87-8b69c99e04be" name="04. ERP Productivo B4B/B4C [Remota]" systemid="P03" msid="caa5bf3c-40e2-4926-8ccf-f076352ffe97" server="MLM_ERP_PRODUCCION" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P03, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="b2e38d04-322f-4420-98a9-e873c9362913" name="13. ERP Desarrollo Multiproyectos" systemid="D04" mode="1" server="DDIDVECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D04, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="7421b097-79bb-4a6d-a85a-c5837a36eb67" name="07. ERP Calidad Energía" systemid="Q02" mode="1" server="DENQAECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q02, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="1625aa09-ccbd-4b50-a526-31707e08dd57" name="11. Interfaces Oracle Productivo SC/R&amp;R/B4B-ABA" systemid="BI3" msid="4506752c-87a5-413a-9d47-97418e38c576" server="sapbi300.unidad.local:3201" sncop="-1" dcpg="2" mode="1"/>
+        <Service type="SAPGUI" uuid="e0b5a364-cd7c-4178-92f9-26bc9184147a" name="07. Solution Manager Productivo" systemid="P14" msid="99e1bf34-938a-429f-91db-971a8cec1359" server="PRD_P14" sncop="9" dcpg="2" sncname="p:CN=P14, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="c073a208-7c6b-47cd-a573-7161d86b6269" name="02. ERP Productivo Corp/CSI [Remota]" systemid="P06" msid="4ea214ee-067c-4160-aed0-7874be1d1372" server="coperp6ci" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P06, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="5e5ba68b-8832-407b-8eb1-a546fcce665f" name="27. Solution Manager Desarrollo/Calidad" systemid="D14" mode="1" server="CMID14AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D14, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="17a88817-49bd-46f4-83c2-445c46ee0c5c" name="03. BPC Productivo" systemid="P07" mode="1" server="CMIP07AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=P07, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="5dc419ad-4874-4d44-b311-57369600e416" name="23. BPC Calidad" systemid="Q07" mode="1" server="CMIQ07AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=Q07, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="793efba0-fa4a-4496-9c1a-1eebbd030d52" name="01. ERP Desarrollo SC/R&amp;R/B4B-ABA" systemid="DE1" mode="1" server="CMIDVECC6.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=DE1, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="a47e926d-a52b-4141-8509-07a3e3ae1ad3" name="13. Interfaces SQL Productivo SC/R&amp;R/B4B-ABA" systemid="BI3" mode="1" server="sapbi301.unidad.local:3200" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="aff02db1-9de1-4d21-a6ee-90d0ba8c79c4" name="14. Interfaces SQL Productivo SC/R&amp;R/B4B-ABA [Remoto]" systemid="BI3" mode="1" server="sapbi301.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="e474ea70-6a5a-4269-bd5d-0f1810d03cfa" name="39. Interfaces SQL Desarrollo SC/R&amp;R/B4B-ABA" systemid="BI1" mode="1" server="DIABIDVQA.unidad.local:3200" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="8dc5ffe6-7407-4d23-a4b3-d06519bc2304" name="40. Interfaces SQL Desarrollo SC/R&amp;R/B4B-ABA [Remoto]" systemid="BI1" mode="1" server="DIABIDVQA.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="4281eaa7-db58-4b8e-a46e-902a93f14ecd" name="43. Interfaces SQL Calidad SC/R&amp;R/B4B-ABA" systemid="BI2" mode="1" server="DIABIDVQA.unidad.local:3201" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="15250d37-f09e-4c1c-bd37-2760f4157d1e" name="44. Interfaces SQL Calidad SC/R&amp;R/B4B-ABA [Remoto]" systemid="BI2" mode="1" server="DIABIDVQA.unidad.local:3201" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="6dc69041-df44-4cc7-967a-cd447c33d92d" name="15. ERP Productivo AIS Bakery" systemid="PRD" mode="1" server="172.16.2.6:3201" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="d72e0117-273f-4395-9e1d-f836bd951078" name="09. Fiori Productivo" systemid="P15" msid="412ec48f-079f-4f65-975a-c2c1ce3363f3" server="FIORI_FES_60" sncop="9" dcpg="2" sncname="p:CN=P15, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="071631cf-1a04-498b-8365-14bd75ae6e6a" name="10. Fiori Productivo [Remota]" systemid="P15" msid="412ec48f-079f-4f65-975a-c2c1ce3363f3" server="FIORI_FES_60" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P15, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="3fa7b55d-cbed-465b-bfc2-f7fbe1bba737" name="13. SAP ALM Productivo" systemid="P21" msid="c2604065-e4c2-4e6e-9e53-72fe067aca82" mode="1" server="CMIP21AP0.unidad.local:3200" sncname="p:CN=P21, OU=SAP Security" dcpg="2" sncop="9"/>
+        <Service type="SAPGUI" uuid="8dfba1bb-678d-422c-b823-e0e134eb3262" name="14. SAP ALM Productivo [Remota]" systemid="P21" msid="c2604065-e4c2-4e6e-9e53-72fe067aca82" mode="1" server="CMIP21AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p:CN=P21, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="0b1b7a60-a902-4f5b-bf29-840f07c70a7a" name="49. SAP ALM Desarrollo/Calidad" systemid="D21" mode="1" server="CMID21AP0.unidad.local:3201" sncop="9" dcpg="2" sncname="p/secude:CN=D21, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="3faf5d6c-4771-4a90-ba44-b676dbc301b7" name="50. SAP ALM Desarrollo/Calidad [Remota]" systemid="D21" mode="1" server="CMID21AP0.unidad.local:3201" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D21, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="78fd0e16-ff6b-457b-8af2-873a0b68f966" name="53. ERP Sandbox (P01) EhP8 SC/R&amp;R/B4B-ABA" systemid="QX1" mode="1" server="CMIP01DRSAP0.unidad.local:3204" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="12a12eed-620d-499e-8db5-e03f5eeeefb5" name="54. ERP Sandbox (P01) EhP8 SC/R&amp;R/B4B-ABA [Remota]" systemid="QX1" mode="1" server="CMIP01DRSAP0.unidad.local:3204" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="-1" dcpg="2"/>
+        <Service type="SAPGUI" uuid="f6321b88-6d75-48dc-b47e-77606b47b963" name="52. ERP Desarrollo EhP8 SC/R&amp;R/B4B-ABA [Remota]" systemid="D01" mode="1" server="CMID01AP0.unidad.local:3200" routerid="34ad21b0-429a-4b84-a983-84273cad6ce9" sncop="9" dcpg="2" sncname="p/secude:CN=D01, OU=SAP Security"/>
+        <Service type="SAPGUI" uuid="5da7efc5-429c-4cf7-84c5-552628d4b8bd" name="51. ERP Desarrollo EhP8 SC/R&amp;R/B4B-ABA" systemid="D01" mode="1" server="CMID01AP0.unidad.local:3200" sncop="9" dcpg="2" sncname="p/secude:CN=D01, OU=SAP Security"/>
+    </Services>
+    <Routers>
+        <Router uuid="34ad21b0-429a-4b84-a983-84273cad6ce9" name="/H/sapr.cmi.co" description="/H/sapr.cmi.co" router="/H/sapr.cmi.co"/>
+        <Router uuid="ab026b68-55af-433c-9a62-cb7b26a7d21c" name="sapr.cmi.co" description="sapr.cmi.co" router="sapr.cmi.co"/>
+    </Routers>
+    <Messageservers>
+        <Messageserver uuid="68d748e4-5657-4790-b5f1-8309648b47d5" name="P17" description="P17" host="CMIP17AP0.unidad.local" port="3601"/>
+        <Messageserver uuid="1607703e-c397-4faa-a97b-14f9b601c5ad" name="P10" description="P10" host="CMIP10AP0.unidad.local" port="3610"/>
+        <Messageserver uuid="caa5bf3c-40e2-4926-8ccf-f076352ffe97" name="P03" description="P03" host="mmerpci.unidad.local" port="3602"/>
+        <Messageserver uuid="5227892f-c320-4905-8638-430f3d66f9f7" name="P11" description="P11" port="3610"/>
+        <Messageserver uuid="5421b3ab-2afb-446f-bdd7-babf6f1ac860" name="P01" description="P01" host="saperpci.unidad.local" port="3602"/>
+        <Messageserver uuid="d192aca7-e487-41e6-87a7-480a49409ac6" name="P11" port="3610"/>
+        <Messageserver uuid="99e1bf34-938a-429f-91db-971a8cec1359" name="P14" description="P14" host="CMIP14CI.unidad.local" port="3610"/>
+        <Messageserver uuid="4506752c-87a5-413a-9d47-97418e38c576" name="BI3" description="BI3" host="sapbici.unidad.local" port="3602"/>
+        <Messageserver uuid="acac155b-0c0a-421a-9830-7a4c562b8660" name="GRP" description="GRP" port="3602"/>
+        <Messageserver uuid="5c53518f-5ba1-45d6-a768-e1149a93f774" name="P04" description="P04" host="mperp6ci.unidad.local" port="3602"/>
+        <Messageserver uuid="748fc962-8490-49b3-b9cf-04f54d2d3569" name="P08" description="P08" port="3601"/>
+        <Messageserver uuid="4ea214ee-067c-4160-aed0-7874be1d1372" name="P06" description="P06" host="coperp6ci.unidad.local" port="3602"/>
+        <Messageserver uuid="fe9310e9-24c2-419c-93ca-5e939c16a7f8" name="P02" description="P02" host="DIVERPCI.unidad.local" port="3602"/>
+        <Messageserver uuid="7ca84149-1e5a-415a-b3ab-7679def70cb5" name="GRP" port="3602"/>
+        <Messageserver uuid="478b947b-b006-48dd-b7b1-41251b7e7306" name="P08" port="3601"/>
+        <Messageserver uuid="412ec48f-079f-4f65-975a-c2c1ce3363f3" name="P15" description="P15" host="cmip15ci.unidad.local" port="3602"/>
+        <Messageserver uuid="c2604065-e4c2-4e6e-9e53-72fe067aca82" name="P21" host="CMIP21AP0.unidad.local" port="3600"/>
+    </Messageservers>
+    <Includes>
+        <Include url="https://github.com/Adlarreal/modelo1-cmiati/blob/main/SAPUILandscapeGlobal.xml" index="0" description="SAP reserved"/>
+    </Includes>
+</Landscape>
