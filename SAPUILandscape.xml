@@ -203,7 +203,5 @@
         <Messageserver uuid="412ec48f-079f-4f65-975a-c2c1ce3363f3" name="P15" description="P15" host="cmip15ci.unidad.local" port="3602"/>
         <Messageserver uuid="c2604065-e4c2-4e6e-9e53-72fe067aca82" name="P21" host="CMIP21AP0.unidad.local" port="3600"/>
     </Messageservers>
-    <Includes>
-        <Include url="https://github.com/Adlarreal/modelo1-cmiati/blob/main/SAPUILandscapeGlobal.xml" index="0" description="SAP reserved"/>
-    </Includes>
 </Landscape>
+
